@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/abhishekarohi/Dropbox/JAR Files/filechooser-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekarohi/Dropbox/JAR Files/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekarohi/Dropbox/JAR Files/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekarohi/Dropbox/JAR Files/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekarohi/Dropbox/JAR Files/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekarohi/Dropbox/JAR Files/UtilitiesJAR.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
